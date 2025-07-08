@@ -1,4 +1,3 @@
-// Fuzzy Logic Temperature Controller + Blynk + Google Sheets (14 Sugeno Rules)
 
 #define BLYNK_TEMPLATE_ID "TMPL6pJ1afFvu"
 #define BLYNK_TEMPLATE_NAME "Tugas akhir Riffan Sudira"
